@@ -27,6 +27,7 @@ namespace Tp2_1
             // Afficher les employés et les statistiques
             directeur.AfficherSalaireTotal();
             directeur.AfficherSalaireMoyen();
+            Console.ReadLine();
 
         }
     }
